@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolio/static/js/main.9d176d22.js",
+    "static/js/453.258b012d.chunk.js": "/portfolio/static/js/453.258b012d.chunk.js",
+    "static/media/main.png": "/portfolio/static/media/main.4931514d465fa1fb1bce.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.acf93004b74c020c90dd.jpg",
+    "static/media/linux.png": "/portfolio/static/media/linux.fc83497f728eb61ee596.png",
+    "static/media/apache.png": "/portfolio/static/media/apache.86225976a50a8bc1e055.png",
+    "static/media/postgres.png": "/portfolio/static/media/postgres.43f879c37fe80d3bf41b.png",
+    "static/media/wordpress.png": "/portfolio/static/media/wordpress.264bf46407c43b948d74.png",
+    "static/media/react.png": "/portfolio/static/media/react.ccbd9d34a638b8556e62.png",
+    "static/media/docker.png": "/portfolio/static/media/docker.6a1c2220a00d3844eea0.png",
+    "static/media/html-css.png": "/portfolio/static/media/html-css.107c714a3ed3568a490a.png",
+    "static/media/eccube.png": "/portfolio/static/media/eccube.b8c4ce009df1b96627e4.png",
+    "static/media/database.png": "/portfolio/static/media/database.1f38a9d7c294d79619a3.png",
+    "static/media/confluence.png": "/portfolio/static/media/confluence.81b8ffa774e7dc79ea1b.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.00a3371083dcf9131b9e.png",
+    "static/media/sqlserver.png": "/portfolio/static/media/sqlserver.7f1a9935d8799341b006.png",
+    "static/media/jquery.png": "/portfolio/static/media/jquery.75720d5ebe9df38af7e4.png",
+    "static/media/vps.png": "/portfolio/static/media/vps.8827798541636677333f.png",
+    "static/media/laravel.png": "/portfolio/static/media/laravel.d5de08870359cb2f528d.png",
+    "static/media/slack.png": "/portfolio/static/media/slack.d957fcc03bc1c8188805.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.11d589d18b1c71ee719b.png",
+    "static/media/cakephp.png": "/portfolio/static/media/cakephp.e4cf8b0605003ce8be8b.png",
+    "static/media/chatwork.png": "/portfolio/static/media/chatwork.34a7506699a879f759ab.png",
+    "static/media/aws.png": "/portfolio/static/media/aws.cb7c1ec47de448de4001.png",
+    "static/media/css.png": "/portfolio/static/media/css.4061c54b50fc021b8c57.png",
+    "index.html": "/portfolio/index.html",
+    "main.e6c13ad2.css.map": "/portfolio/static/css/main.e6c13ad2.css.map",
+    "main.9d176d22.js.map": "/portfolio/static/js/main.9d176d22.js.map",
+    "453.258b012d.chunk.js.map": "/portfolio/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9d176d22.js"
+  ]
+}
