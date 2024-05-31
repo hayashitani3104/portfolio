@@ -167,12 +167,19 @@ const skillsetItems = [
     ],
   },
   {
-    name: 'Linux関連',
+    name: 'Linuxアプリケーション',
     image: linuxImage,
-    years: 6,
-    level: 3,
+    years: 9,
+    level: 4,
     description: 'コマンドラインは抵抗なくいじることができます。ミドルウェアなどの導入も可能です。',
     children: [
+      {
+        name: 'Git',
+        image: gitImage,
+        years: 9,
+        level: 5,
+        description: 'ブランチ運用は事前に必ず確認し、デグレ等のトラブルは発生させません。GitHubやBitbucketでのプルリクエスト・ソースレビューなどの概念理解はできております。レビュアー経験もあります。',
+      },
       {
         name: 'Nginx',
         image: nginxImage,
@@ -216,13 +223,6 @@ const skillsetItems = [
         years: 6,
         level: 4,
         description: 'docker-composeも含め、技術選定に合わせたイメージや構成でコンテナを構築することが可能です。',
-      },
-      {
-        name: 'Git',
-        image: gitImage,
-        years: 9,
-        level: 5,
-        description: 'ブランチ運用は事前に必ず確認し、デグレ等のトラブルは発生させません。GitHubやBitbucketでのプルリクエスト・ソースレビューなどの概念理解はできております。レビュアー経験もあります。',
       },
       {
         name: 'VPS',
