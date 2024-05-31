@@ -111,7 +111,7 @@ const skillsetItems = [
     image: javascriptImage,
     years: 5,
     level: 3,
-    description: '主な実務経験は生のjsやJQueryになります。vueやreactの実務経験を積みたいです。',
+    description: '主な実務経験は生のJSやJQueryになります。VueやReactの実務経験を積みたいです。',
     children: [
       {
         name: '生JS',
@@ -222,7 +222,7 @@ const skillsetItems = [
         image: gitImage,
         years: 9,
         level: 5,
-        description: 'ブランチ運用は事前に必ず確認し、デグレ等のトラブルは発生させません。GitHubやBitbucketでのプルリクエスト・ソースレビューなどの概念理解はできております。レビュワー経験もあります。',
+        description: 'ブランチ運用は事前に必ず確認し、デグレ等のトラブルは発生させません。GitHubやBitbucketでのプルリクエスト・ソースレビューなどの概念理解はできております。レビュアー経験もあります。',
       },
       {
         name: 'VPS',
