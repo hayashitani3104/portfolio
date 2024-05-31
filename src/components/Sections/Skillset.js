@@ -238,7 +238,7 @@ const skillsetItems = [
     image: chatImage,
     years: 9,
     level: 4,
-    description: '色々なツールを使ってきています。チャットコミュニケーションは誤解が生まれやすいため、主語述語の省略は控え、簡潔にわかりやすくを目指しています。',
+    description: 'チャットコミュニケーションは誤解が生まれやすいため、主語述語の省略は控え、簡潔にわかりやすくを目指しています。',
     children: [
       {
         name: 'Chatwork',
