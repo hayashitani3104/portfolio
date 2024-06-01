@@ -257,7 +257,7 @@ const skillsetItems = [
       {
         name: 'Teams',
         image: teamsImage,
-        years: '半',
+        years: '半年~1',
         level: 2,
         description: 'チャットツールというよりコラボレーションツールですが、主にチャットで利用していました。',
       },
