@@ -56,7 +56,7 @@ const skillsetItems = [
       {
         name: 'その他のフレームワーク',
         image: cakephpImage,
-        years: 'それぞれ約半~1',
+        years: 'それぞれ約半年~1',
         level: 3,
         description: 'CakePHP、Phalcon、ZendFramework、Symfonyの経験があります。最近の案件はLaravel中心になりますが、これらのフレームワークも抵抗なく触ることができます。',
       },
