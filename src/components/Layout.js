@@ -4,16 +4,16 @@ import Header from './Header';
 import Footer from './Footer';
 
 const Layout = ({ children }) => {
-  const headerHeight = ['48px', '64px', '64px', '64px'];
+  const headerHeight = ['56px', '64px', '64px', '64px'];
 
   return (
-    <>
+    <Box bg="#0f0f1a" minH="100vh">
       <Header height={headerHeight} />
-      <Box as="main" pt={headerHeight}>
+      <Box as="main">
         {children}
       </Box>
       <Footer />
-    </>
+    </Box>
   );
 };
 
